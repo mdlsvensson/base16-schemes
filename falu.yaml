@@ -1,18 +1,18 @@
 scheme: "Falu"
 author: "Wilmer Lindau (http://github.com/mdlsvensson)"
-base00: "0e000c" # Default Background
-base01: "20131e" # Lighter Background (Used for status bars, line number and folding marks)
-base02: "322630" # Selection Background
-base03: "4e3d42" # Comments, Invisibles, Line Highlighting
-base04: "564d55" # Dark Foreground (Used for status bars)
-base05: "efe1ed" # Default Foreground, Caret, Delimiters, Operators
-base06: "f6eff5" # Light Foreground (Not often used)
-base07: "efe1ed" # Light Background (Not often used)
-base08: "e0f2e9" # Variables, XML Tags, Markup Link Text, Markup Lists, Diff Deleted
-base09: "e5bd9f" # Integers, Boolean, Constants, XML Attributes, Markup Link Url
-base0A: "edafb8" # Classes, Markup Bold, Search Text Background
-base0B: "94bfa7" # Strings, Inherited Class, Markup Code, Diff Inserted
-base0C: "9ed0e6" # Support, Regular Expressions, Escape Characters, Markup Quotes
-base0D: "a6a0bd" # Functions, Methods, Attribute IDs, Headings
-base0E: "c49bbb" # Keywords, Storage, Selector, Markup Italic, Diff Changed
-base0F: "4cb49e" # Deprecated, Opening/Closing Embedded Language Tags, e.g. <?php ?>
+base00: "0F1419"
+base01: "131721"
+base02: "272D38"
+base03: "3E4B59"
+base04: "BFBDB6"
+base05: "E6E1CF"
+base06: "E6E1CF"
+base07: "F3F4F5"
+base08: "F07178"
+base09: "FF8F40"
+base0A: "FFB454"
+base0B: "B8CC52"
+base0C: "95E6CB"
+base0D: "59C2FF"
+base0E: "D2A6FF"
+base0F: "E6B673"
